@@ -12,7 +12,7 @@ ALPHA Shop IV：表單實作
 
 2.將專案 clone 到本地
 
-    git clone https://github.com/sigox/3S2A4.git
+    git clone https://github.com/sigox/3S3A7.git
 
 3.安裝 npm 套件
 
